@@ -1,0 +1,8 @@
+numpy
+opencv-contrib-python
+pathlib
+click8
+multiprocessing
+Pillow
+face-recognition
+flask
